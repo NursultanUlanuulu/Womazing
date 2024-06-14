@@ -1,0 +1,47 @@
+.block3 {
+    width: 1200px;
+    margin-top: 130px;
+}
+
+h2 {
+
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+
+.staf {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 92px;
+}
+
+.q{
+    margin: 0 65px 0 31px;
+}
+h3 {
+
+    font-family: Raleway;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+
+p {
+
+    font-family: Raleway;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}

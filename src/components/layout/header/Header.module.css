@@ -1,0 +1,29 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list {
+    display: flex;
+}
+
+.list li {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.list a {
+    text-decoration: none;
+    color: #000000E5;
+}
+.list a:hover {
+    color: #6E9C9F;
+}
+
+.icon img {
+    margin-right: 30px;
+}
+.icon{
+    display: flex;
+}

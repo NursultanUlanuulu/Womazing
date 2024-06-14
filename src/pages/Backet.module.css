@@ -1,0 +1,48 @@
+.option {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.tit {
+
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0.09em;
+
+}
+.titi {
+
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    margin-right: 360px;
+
+}
+
+.detal{
+    display: flex;
+    margin-top: 49px;
+    align-items: center;
+    justify-content: space-between;
+}
+.img{
+    display: flex;
+    align-items: center;
+}
+.img p {
+    margin-left: 20px;
+}
+/* .price {
+    position: relative;
+    right: 40px;
+}
+.count{
+    position: relative;
+    right: 85px;
+} */

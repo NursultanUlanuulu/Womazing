@@ -1,0 +1,12 @@
+.shop {
+	width: 1200px;
+}
+h1 {
+	text-align: center;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 70px;
+}

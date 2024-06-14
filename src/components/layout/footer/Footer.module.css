@@ -1,0 +1,33 @@
+.footer {
+    width: 1200px;
+    height: 363px;
+    background-color: #F1EADC;
+    margin-top: 87px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+}
+.food{
+  margin-top: 196px;
+}
+.num li{
+    margin: 5px 0;
+}
+ul li{
+    list-style: none;
+}
+.icon{
+    margin-left: 40px;
+}
+.icon img{
+    margin: 0 10px;
+}
+
+.visa {
+    margin-bottom: 103px;
+    margin-left: 40px;
+}
+.visa img{
+  margin: 10px 10px;
+    
+}

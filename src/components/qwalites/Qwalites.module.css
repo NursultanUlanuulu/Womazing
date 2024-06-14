@@ -1,0 +1,48 @@
+.qwalites {
+    margin-top: 127px;
+    width: 1200px;
+}
+
+h1 {
+    margin-bottom: 92px;
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 350px;
+    height: 272px;
+    /* gap: 37px; */
+}
+
+h3 {
+
+    font-family: Raleway;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+
+p {
+
+    font-family: Raleway;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}

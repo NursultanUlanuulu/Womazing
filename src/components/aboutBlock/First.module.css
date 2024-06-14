@@ -1,0 +1,26 @@
+.first {
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    width: 542px;
+    height: 321px;
+    margin-left: 94px;
+    text-align: start;
+
+}
+
+h3 {
+
+    font-family: Raleway;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+.p{
+    text-align: start;
+}
